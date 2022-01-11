@@ -1,0 +1,8 @@
+#ifndef MAIN_H_INCLUDED
+#define MAIN_H_INCLUDED
+
+#define PUBLIC_PORT 1024
+#define BUFFER_SIZE 2048
+#define QUIT_CHAR '.'
+
+#endif // MAIN_H_INCLUDED
